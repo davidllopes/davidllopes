@@ -1,4 +1,14 @@
+![Portfolio screenshot](images/davidmedia.png)
+
 ### Hi there 👋
+I'm David (He/Him)
+As a creative developer, I have a passion for coding, interactivity and visual design.
+
+## Coding 👨‍🚀
+I'm currently doing a Web Developement bootcamp with HyperionDev. Although I have working experience developing interactive digital experiences, everything I've learnt is self-taught, so doing this bootcamp is a certified recognition of my frontend skills.
+
+## Read more 🚀
+Please give my website a visit: [davidlopes.media](davidlopes.media)
 
 <!--
 **davidllopes/davidllopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
