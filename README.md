@@ -1,14 +1,28 @@
-![Portfolio screenshot](images/davidmedia.png)
+[![Portfolio screenshot](images/davidmedia.png)](https://davidlopes.media)
 
 ### Hi there 👋
 I'm David (He/Him)
+
 As a creative developer, I have a passion for coding, interactivity and visual design.
 
 ## Coding 👨‍🚀
 I'm currently doing a Web Developement bootcamp with HyperionDev. Although I have working experience developing interactive digital experiences, everything I've learnt is self-taught, so doing this bootcamp is a certified recognition of my frontend skills.
 
+<details>
+<summary>My top coding <i>Power-ups</i></summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| CSS       |
+|     3| HTML      |
+|     4| PHP       |
+|     5| SQL       |
+  
+</details>
+
 ## Read more 🚀
-Please give my website a visit: [davidlopes.media](davidlopes.media)
+Please give my website a visit: [davidlopes.media](https://davidlopes.media)
 
 <!--
 **davidllopes/davidllopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
