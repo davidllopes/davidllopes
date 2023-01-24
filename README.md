@@ -13,11 +13,13 @@ I'm currently doing a Web Developement bootcamp with HyperionDev. Although I hav
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| CSS       |
-|     3| HTML      |
-|     4| PHP       |
-|     5| SQL       |
+|     1| Javascript |
+|     2| React       |
+|     3| TailwindCSS |
+|     4| CSS         |
+|     5| HTML       |
+|     6| PHP       |
+|     7| SQL       |
   
 </details>
 
